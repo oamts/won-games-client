@@ -19,7 +19,8 @@
     "next-pwa": "^5.2.24",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "styled-components": "^5.3.0"
+    "styled-components": "^5.3.0",
+    "styled-media-query": "^2.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
