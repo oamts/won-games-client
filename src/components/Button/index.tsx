@@ -2,7 +2,7 @@ import * as S from './styles'
 import React from 'react'
 
 export type ButtonProps = {
-  children?: React.ReactElement
+  children?: React.ReactNode
   size?: 'small' | 'medium' | 'large'
 }
 
