@@ -11,7 +11,7 @@ const Menu = () => (
       <MenuIcon />
     </S.IconWrapper>
     <S.LogoWrapper>
-      <Logo />
+      <Logo hideOnMobile />
     </S.LogoWrapper>
     <S.MenuGroup>
       <S.IconWrapper>

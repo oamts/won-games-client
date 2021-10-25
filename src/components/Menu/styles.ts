@@ -34,7 +34,7 @@ export const MenuGroup = styled.div`
     justify-content: flex-end;
 
     > div {
-      margin-left: ${theme.spacings.xxsmall};
+      margin-left: ${theme.spacings.xsmall};
     }
   `}
 `
